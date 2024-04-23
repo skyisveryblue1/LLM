@@ -3,6 +3,7 @@ References for LLM
 
 ## Open source LLM
 * https://github.com/meta-llama/llama.git
+* https://github.com/meta-llama/llama3.git
 * https://github.com/QwenLM/Qwen-VL.git
 
 ## Training LLM
