@@ -11,7 +11,17 @@
      * dataset: https://huggingface.co/datasets/tatsu-lab/alpaca
   2. 
 ## Tools
-  1. Langchain: https://github.com/langchain-ai/langchain.git
+  1. Langchain
+     * https://github.com/langchain-ai/langchain.git
+     * https://github.com/langchain-ai/langchainjs.git
+  2. GPT4All
+     * https://github.com/nomic-ai/gpt4all.git
+  3. https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference.git
+  4. 
+     
+## Informations
+  * https://github.com/Hannibal046/Awesome-LLM.git
+  * https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing.git
     
 # Others
 1. DSpace
