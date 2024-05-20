@@ -1,5 +1,4 @@
 # LLM
-References for LLM
 
 ## Open source LLM
 * https://github.com/meta-llama/llama.git
@@ -11,9 +10,14 @@ References for LLM
      * source code: https://github.com/keitazoumana/Medium-Articles-Notebooks/blob/main/Train_your_LLM.ipynb
      * dataset: https://huggingface.co/datasets/tatsu-lab/alpaca
   2. 
+## Tools
+  1. Langchain: https://github.com/langchain-ai/langchain.git
     
-## Others
-1. DSpace: https://github.com/DSpace/DSpace.git
+# Others
+1. DSpace
+ * Source code:  https://github.com/DSpace/DSpace.git
  * Backend (REST API): https://github.com/DSpace/DSpace/releases
  * Frontend (User Interface): https://github.com/DSpace/dspace-angular/releases
-2. 
+2. Online document editor
+ * https://github.com/ONLYOFFICE/DocumentServer.git
+   
