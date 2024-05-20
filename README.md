@@ -40,4 +40,5 @@
  * Frontend (User Interface): https://github.com/DSpace/dspace-angular/releases
 2. Online document editor
  * https://github.com/ONLYOFFICE/DocumentServer.git
+ * https://github.com/ether/etherpad-lite.git
    
