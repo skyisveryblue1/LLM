@@ -7,6 +7,7 @@
 
 ## Model
 * https://huggingface.co/meta-llama
+* https://huggingface.co/mistralai
 
 ## Training LLM
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
@@ -19,11 +20,13 @@
      * https://github.com/langchain-ai/langchainjs.git
   2. GPT4All
      * https://github.com/nomic-ai/gpt4all.git
-  3. https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference.git
-  4. 
+  3. https://github.com/langfuse/langfuse.git
+  4. https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference.git
+  5. 
      
 ## Informations
   * https://github.com/Hannibal046/Awesome-LLM.git
+  * https://github.com/Barnacle-ai/awesome-llm-list.git
   * https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing.git
     
 # Others
