@@ -3,11 +3,15 @@
 ## Open source LLM
 * https://github.com/meta-llama/llama.git
 * https://github.com/meta-llama/llama3.git
+* https://github.com/QwenLM/Qwen.git
 * https://github.com/QwenLM/Qwen-VL.git
+* https://github.com/lm-sys/FastChat.git
+* https://github.com/yxuansu/OpenAlpaca.git
 
 ## Model
 * https://huggingface.co/meta-llama
 * https://huggingface.co/mistralai
+* https://huggingface.co/tiiuae/falcon-7b
 
 ## Training LLM
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
