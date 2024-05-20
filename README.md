@@ -5,6 +5,9 @@
 * https://github.com/meta-llama/llama3.git
 * https://github.com/QwenLM/Qwen-VL.git
 
+## Model
+* https://huggingface.co/meta-llama
+
 ## Training LLM
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
      * source code: https://github.com/keitazoumana/Medium-Articles-Notebooks/blob/main/Train_your_LLM.ipynb
