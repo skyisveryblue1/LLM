@@ -13,4 +13,6 @@ References for LLM
   2. 
     
 ## Others
-* DSpace: https://github.com/DSpace/DSpace.git
+- DSpace: https://github.com/DSpace/DSpace.git
+ * Backend (REST API): https://github.com/DSpace/DSpace/releases
+ * Frontend (User Interface): https://github.com/DSpace/dspace-angular/releases
