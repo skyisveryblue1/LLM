@@ -7,7 +7,7 @@
 * https://github.com/QwenLM/Qwen-VL.git
 * https://github.com/lm-sys/FastChat.git
 * https://github.com/yxuansu/OpenAlpaca.git
-
+* https://github.com/ludwig-ai/ludwig.git
 ## Model
 * https://huggingface.co/meta-llama
 * https://huggingface.co/mistralai
@@ -17,7 +17,7 @@
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
      * source code: https://github.com/keitazoumana/Medium-Articles-Notebooks/blob/main/Train_your_LLM.ipynb
      * dataset: https://huggingface.co/datasets/tatsu-lab/alpaca
-  2. 
+    
 ## Tools
   1. Langchain
      * https://github.com/langchain-ai/langchain.git
