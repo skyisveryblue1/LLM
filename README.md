@@ -17,6 +17,10 @@
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
      * source code: https://github.com/keitazoumana/Medium-Articles-Notebooks/blob/main/Train_your_LLM.ipynb
      * dataset: https://huggingface.co/datasets/tatsu-lab/alpaca
+  2. seq2seq
+     * https://github.com/google/seq2seq.git
+     * https://github.com/bentrevett/pytorch-seq2seq.git
+     * https://github.com/farizrahman4u/seq2seq.git
     
 ## Tools
   1. Langchain
