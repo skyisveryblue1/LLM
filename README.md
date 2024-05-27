@@ -39,22 +39,22 @@
 
 ## Toolkits & Drivers
   1. Pytorch
-    * https://download.pytorch.org/whl/cu111/torch-1.8.1%2Bcu111-cp37-cp37m-linux_x86_64.whl
-    * https://download.pytorch.org/whl/cu111/torchvision-0.9.1%2Bcu111-cp37-cp37m-linux_x86_64.whl
-    * torchaudio-0.8.1-cp37-cp37m-manylinux1_x86_64.whl
+     * https://download.pytorch.org/whl/cu111/torch-1.8.1%2Bcu111-cp37-cp37m-linux_x86_64.whl
+     * https://download.pytorch.org/whl/cu111/torchvision-0.9.1%2Bcu111-cp37-cp37m-linux_x86_64.whl
+     * torchaudio-0.8.1-cp37-cp37m-manylinux1_x86_64.whl
      
   2. Tensorflow
-    * https://pypi.tuna.tsinghua.edu.cn/packages/c3/4a/00a5f8ee5b3c07220d0f565926bf13494e2fdbb00da97e01c23256ee3deb/tensorflow_cpu-2.1.0-cp27-cp27mu-manylinux2010_x86_64.whl#sha256=7fa4781930c03b2105482db63994bd14eb17e6b1a0f62a17cbf85d76491c9f82
-    * https://pypi.tuna.tsinghua.edu.cn/packages/03/d1/05e73ce37a628d5cd5a40b43115f2a6ef4ce0c016f80e0f22deed32ddbc0/tensorflow_cpu-2.1.3-cp36-cp36m-manylinux2010_x86_64.whl#sha256=385e5387f2fc0e06e1c4f811ac6a2f7cc2a81a044a3bd6497bbfeb813dd6db2b
-    * https://pypi.tuna.tsinghua.edu.cn/packages/80/23/cfceead292f257a2b928d2163b1cfbce9b5ecf8fe92c53779d62ddd8483e/tensorflow_cpu-2.1.3-cp37-cp37m-win_amd64.whl#sha256=a9eabde5c2fd58ec8ad581cded3d462b4ca4e0603842ec9c9715527960821f62
-    * https://pypi.tuna.tsinghua.edu.cn/packages/5a/3c/743393aa268e0c29a00b0dd6689762f8469ea634613836822842f9692dae/tensorflow_cpu-2.3.0-cp35-cp35m-manylinux2010_x86_64.whl#sha256=82dd2df04aa5e1c002f3c018b63ac803f56ee3f7ee5412a9c76202f7a2575fea
-    * https://pypi.tuna.tsinghua.edu.cn/packages/34/34/7fab6d4dc27ce3f14343d61795b259803d87c4b7d82b05ba15f2779dac33/tensorflow_cpu-2.3.0-cp38-cp38-win_amd64.whl#sha256=877d2f5b7aeff4c0ae4e92b2aa1a1909962d08acad9d2d0761a161d1f179ddf0
-    * https://pypi.tuna.tsinghua.edu.cn/packages/74/32/1544170f8ec616aed04790c4df2e45470a87ea7001eddb86c036ce6b112a/tensorflow_cpu-2.8.0-cp310-cp310-manylinux2010_x86_64.whl#sha256=60f7f3258906c6e0753b4a57b461acc2d4360f367714b0bc684b9456658a31ea
-    * https://pypi.tuna.tsinghua.edu.cn/packages/6e/40/45150d18bf83609335c4bea9a9918eb2dfd94eb61c4aa4a760b566a27b24/tensorflow_cpu-2.8.0-cp310-cp310-win_amd64.whl#sha256=0399da0d90d13a4601f9c1fca89c8c6c4524698bbb8cd2befff2413e25c64415
-    * https://pypi.tuna.tsinghua.edu.cn/packages/6f/e4/69eab4bce33479915fff732c681978ba0bca27bde8bd99687662ac35de29/tensorflow_cpu-2.9.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6666ddeae45e1f41da788cb4bdea3435aba16edb0bc17b7ac00631c7c9eb052e
-    * https://pypi.tuna.tsinghua.edu.cn/packages/c3/ea/ddd57c1cce2dde5320b27968d2aa6f08ab1c889d768406811eec4ead8e76/tensorflow_cpu-2.9.1-cp310-cp310-win_amd64.whl#sha256=7442cd76a1d72473c466732a2aff8eba08c78afbf47fc6f2f019ef861878900d
+     * https://pypi.tuna.tsinghua.edu.cn/packages/c3/4a/00a5f8ee5b3c07220d0f565926bf13494e2fdbb00da97e01c23256ee3deb/tensorflow_cpu-2.1.0-cp27-cp27mu-manylinux2010_x86_64.whl#sha256=7fa4781930c03b2105482db63994bd14eb17e6b1a0f62a17cbf85d76491c9f82
+     * https://pypi.tuna.tsinghua.edu.cn/packages/03/d1/05e73ce37a628d5cd5a40b43115f2a6ef4ce0c016f80e0f22deed32ddbc0/tensorflow_cpu-2.1.3-cp36-cp36m-manylinux2010_x86_64.whl#sha256=385e5387f2fc0e06e1c4f811ac6a2f7cc2a81a044a3bd6497bbfeb813dd6db2b
+     * https://pypi.tuna.tsinghua.edu.cn/packages/80/23/cfceead292f257a2b928d2163b1cfbce9b5ecf8fe92c53779d62ddd8483e/tensorflow_cpu-2.1.3-cp37-cp37m-win_amd64.whl#sha256=a9eabde5c2fd58ec8ad581cded3d462b4ca4e0603842ec9c9715527960821f62
+     * https://pypi.tuna.tsinghua.edu.cn/packages/5a/3c/743393aa268e0c29a00b0dd6689762f8469ea634613836822842f9692dae/tensorflow_cpu-2.3.0-cp35-cp35m-manylinux2010_x86_64.whl#sha256=82dd2df04aa5e1c002f3c018b63ac803f56ee3f7ee5412a9c76202f7a2575fea
+     * https://pypi.tuna.tsinghua.edu.cn/packages/34/34/7fab6d4dc27ce3f14343d61795b259803d87c4b7d82b05ba15f2779dac33/tensorflow_cpu-2.3.0-cp38-cp38-win_amd64.whl#sha256=877d2f5b7aeff4c0ae4e92b2aa1a1909962d08acad9d2d0761a161d1f179ddf0
+     * https://pypi.tuna.tsinghua.edu.cn/packages/74/32/1544170f8ec616aed04790c4df2e45470a87ea7001eddb86c036ce6b112a/tensorflow_cpu-2.8.0-cp310-cp310-manylinux2010_x86_64.whl#sha256=60f7f3258906c6e0753b4a57b461acc2d4360f367714b0bc684b9456658a31ea
+     * https://pypi.tuna.tsinghua.edu.cn/packages/6e/40/45150d18bf83609335c4bea9a9918eb2dfd94eb61c4aa4a760b566a27b24/tensorflow_cpu-2.8.0-cp310-cp310-win_amd64.whl#sha256=0399da0d90d13a4601f9c1fca89c8c6c4524698bbb8cd2befff2413e25c64415
+     * https://pypi.tuna.tsinghua.edu.cn/packages/6f/e4/69eab4bce33479915fff732c681978ba0bca27bde8bd99687662ac35de29/tensorflow_cpu-2.9.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6666ddeae45e1f41da788cb4bdea3435aba16edb0bc17b7ac00631c7c9eb052e
+     * https://pypi.tuna.tsinghua.edu.cn/packages/c3/ea/ddd57c1cce2dde5320b27968d2aa6f08ab1c889d768406811eec4ead8e76/tensorflow_cpu-2.9.1-cp310-cp310-win_amd64.whl#sha256=7442cd76a1d72473c466732a2aff8eba08c78afbf47fc6f2f019ef861878900d
   3. NVIDIA
-    * 
+     * 
     
 # Others
 1. DSpace
