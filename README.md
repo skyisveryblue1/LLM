@@ -53,8 +53,21 @@
      * https://pypi.tuna.tsinghua.edu.cn/packages/6e/40/45150d18bf83609335c4bea9a9918eb2dfd94eb61c4aa4a760b566a27b24/tensorflow_cpu-2.8.0-cp310-cp310-win_amd64.whl#sha256=0399da0d90d13a4601f9c1fca89c8c6c4524698bbb8cd2befff2413e25c64415
      * https://pypi.tuna.tsinghua.edu.cn/packages/6f/e4/69eab4bce33479915fff732c681978ba0bca27bde8bd99687662ac35de29/tensorflow_cpu-2.9.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6666ddeae45e1f41da788cb4bdea3435aba16edb0bc17b7ac00631c7c9eb052e
      * https://pypi.tuna.tsinghua.edu.cn/packages/c3/ea/ddd57c1cce2dde5320b27968d2aa6f08ab1c889d768406811eec4ead8e76/tensorflow_cpu-2.9.1-cp310-cp310-win_amd64.whl#sha256=7442cd76a1d72473c466732a2aff8eba08c78afbf47fc6f2f019ef861878900d
-  3. NVIDIA
-     * 
+       
+  3. NVIDIA Drivers & SDK
+     * V100: https://us.download.nvidia.com/tesla/450.248.02/NVIDIA-Linux-x86_64-450.248.02.run?_gl=1*43tr9u*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
+     * P100: https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/tesla/440.95.01/NVIDIA-Linux-x86_64-440.95.01.run&lang=us&type=Data%20Center%20/%20Tesla
+     * K80: https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/tesla/440.95.01/NVIDIA-Linux-x86_64-440.95.01.run&lang=us&type=Data%20Center%20/%20Tesla
+           
+     * https://developer.nvidia.com/compute/cuda/10.0/Prod/local_installers/cuda_10.0.130_410.48_linux
+     * https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_418.87.00_rhel6.run
+     * https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_418.87.00_linux.run
+     * https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_426.00_windows.exe?_gl=1*1dj8n28*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
+     * https://developer.download.nvidia.com/compute/cuda/11.0.1/local_installers/cuda_11.0.1_450.36.06_linux.run
+     * https://developer.download.nvidia.com/compute/cuda/11.0.1/local_installers/cuda_11.0.1_451.22_win10.exe?_gl=1*1dj8n28*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
+     * https://developer.download.nvidia.com/compute/cuda/11.5.0/local_installers/cuda_11.5.0_495.29.05_linux.run
+     * https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_525.60.13_linux.run
+     * https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_527.41_windows.exe?_gl=1*17wduhk*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz    
     
 # Others
 1. DSpace
