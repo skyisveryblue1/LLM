@@ -55,19 +55,20 @@
      * https://pypi.tuna.tsinghua.edu.cn/packages/c3/ea/ddd57c1cce2dde5320b27968d2aa6f08ab1c889d768406811eec4ead8e76/tensorflow_cpu-2.9.1-cp310-cp310-win_amd64.whl#sha256=7442cd76a1d72473c466732a2aff8eba08c78afbf47fc6f2f019ef861878900d
        
   3. NVIDIA Drivers & SDK
+     * A100: https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/tesla/550.54.15/NVIDIA-Linux-x86_64-550.54.15.run&lang=us&type=Data%20Center%20/%20Tesla
      * V100: https://us.download.nvidia.com/tesla/450.248.02/NVIDIA-Linux-x86_64-450.248.02.run?_gl=1*43tr9u*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
      * P100: https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/tesla/440.95.01/NVIDIA-Linux-x86_64-440.95.01.run&lang=us&type=Data%20Center%20/%20Tesla
      * K80: https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/tesla/440.95.01/NVIDIA-Linux-x86_64-440.95.01.run&lang=us&type=Data%20Center%20/%20Tesla
            
-     * https://developer.nvidia.com/compute/cuda/10.0/Prod/local_installers/cuda_10.0.130_410.48_linux
-     * https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_418.87.00_rhel6.run
-     * https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_418.87.00_linux.run
-     * https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_426.00_windows.exe?_gl=1*1dj8n28*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
-     * https://developer.download.nvidia.com/compute/cuda/11.0.1/local_installers/cuda_11.0.1_450.36.06_linux.run
-     * https://developer.download.nvidia.com/compute/cuda/11.0.1/local_installers/cuda_11.0.1_451.22_win10.exe?_gl=1*1dj8n28*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
-     * https://developer.download.nvidia.com/compute/cuda/11.5.0/local_installers/cuda_11.5.0_495.29.05_linux.run
-     * https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_525.60.13_linux.run
-     * https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_527.41_windows.exe?_gl=1*17wduhk*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz    
+     * CUDA 10.0: https://developer.nvidia.com/compute/cuda/10.0/Prod/local_installers/cuda_10.0.130_410.48_linux
+     * CUDA 10.1 RHEL6: https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_418.87.00_rhel6.run
+     * CUDA 10.1 Linux: https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_418.87.00_linux.run
+     * CUDA 10.1 Windows: https://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.243_426.00_windows.exe?_gl=1*1dj8n28*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
+     * CUDA 11.0.1 Linux: https://developer.download.nvidia.com/compute/cuda/11.0.1/local_installers/cuda_11.0.1_450.36.06_linux.run
+     * CUDA 11.0.1 Windows: https://developer.download.nvidia.com/compute/cuda/11.0.1/local_installers/cuda_11.0.1_451.22_win10.exe?_gl=1*1dj8n28*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
+     * CUDA 11.5 Linux: https://developer.download.nvidia.com/compute/cuda/11.5.0/local_installers/cuda_11.5.0_495.29.05_linux.run
+     * CUDA 12.0 Linux: https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_525.60.13_linux.run
+     * CUDA 12.0 Windows: https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_527.41_windows.exe?_gl=1*17wduhk*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz    
     
 # Others
 1. DSpace
