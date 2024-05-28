@@ -41,7 +41,10 @@
   * https://github.com/Hannibal046/Awesome-LLM.git
   * https://github.com/Barnacle-ai/awesome-llm-list.git
   * https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing.git
-
+    
+## References
+  * https://github.com/scutan90/DeepLearning-500-questions.git
+    
 ## Toolkits & Drivers
   1. Pytorch
      * https://download.pytorch.org/whl/cu111/torch-1.8.1%2Bcu111-cp37-cp37m-linux_x86_64.whl
