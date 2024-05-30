@@ -26,6 +26,8 @@
      * https://github.com/google/seq2seq.git
      * https://github.com/bentrevett/pytorch-seq2seq.git
      * https://github.com/farizrahman4u/seq2seq.git
+  3. ONNX
+     https://github.com/microsoft/onnxruntime.git
     
 ## Tools
   1. Langchain
