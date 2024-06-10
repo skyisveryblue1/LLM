@@ -35,11 +35,12 @@
      * https://github.com/langchain-ai/langchainjs.git
   2. GPT4All
      * https://github.com/nomic-ai/gpt4all.git
-  3. https://github.com/langfuse/langfuse.git
-  4. https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference.git
-  5. https://github.com/h2oai/h2o-llmstudio.git
-  6. https://github.com/langgenius/dify.git
-  7. https://github.com/huggingface/transformers.git
+  3. https://github.com/llmware-ai/llmware.git
+  4. https://github.com/langfuse/langfuse.git
+  5. https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference.git
+  6. https://github.com/h2oai/h2o-llmstudio.git
+  7. https://github.com/langgenius/dify.git
+  8. https://github.com/huggingface/transformers.git
      
 ## Informations
   * https://github.com/Hannibal046/Awesome-LLM.git
