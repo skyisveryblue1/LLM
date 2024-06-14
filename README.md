@@ -91,5 +91,7 @@
 2. Online document editor
  * https://github.com/ONLYOFFICE/DocumentServer.git
  * https://github.com/ether/etherpad-lite.git
+3. Online diagram editor
+ * https://github.com/jgraph/drawio.git
  * https://github.com/CollaboraOnline/online.git
    
