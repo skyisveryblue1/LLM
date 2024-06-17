@@ -4,20 +4,6 @@
 * Telegram: https://t.me/skyisveryblue2
 
 # LLM
-
-## Open source LLM
-* https://github.com/meta-llama/llama.git
-* https://github.com/meta-llama/llama3.git
-* https://github.com/QwenLM/Qwen.git
-* https://github.com/QwenLM/Qwen-VL.git
-* https://github.com/lm-sys/FastChat.git
-* https://github.com/yxuansu/OpenAlpaca.git
-* https://github.com/ludwig-ai/ludwig.git
-## Model
-* https://huggingface.co/meta-llama
-* https://huggingface.co/mistralai
-* https://huggingface.co/tiiuae/falcon-7b
-
 ## Training LLM
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
      * source code: https://github.com/keitazoumana/Medium-Articles-Notebooks/blob/main/Train_your_LLM.ipynb
@@ -94,5 +80,20 @@
  * https://github.com/CollaboraOnline/online.git
 3. Online diagram editor
  * https://github.com/jgraph/drawio.git
+
+-------------------------------------------
+# Open source LLM
+* https://github.com/meta-llama/llama.git
+* https://github.com/meta-llama/llama3.git
+* https://github.com/QwenLM/Qwen.git
+* https://github.com/QwenLM/Qwen-VL.git
+* https://github.com/lm-sys/FastChat.git
+* https://github.com/yxuansu/OpenAlpaca.git
+* https://github.com/ludwig-ai/ludwig.git
+* 
+# LLM Model
+* https://huggingface.co/meta-llama
+* https://huggingface.co/mistralai
+* https://huggingface.co/tiiuae/falcon-7b
  
    
