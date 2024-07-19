@@ -3,6 +3,10 @@
 * Skype: live:.cid.fb228ffc1dfd9028
 * Telegram: https://t.me/skyisveryblue2
 
+# Knowhows
+## Nginx configuration for load balance of Apache Tomcat servers
+https://docs.nginx.com/nginx/deployment-guides/load-balance-third-party/apache-tomcat/
+
 # LLM
 ## Source code
   1. llama.cpp : https://github.com/ggerganov/llama.cpp.git
