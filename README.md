@@ -4,6 +4,9 @@
 * Telegram: https://t.me/skyisveryblue2
 
 # LLM
+## Source code
+  1. llama.cpp : https://github.com/ggerganov/llama.cpp.git
+     
 ## Training LLM
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
      * source code: https://github.com/keitazoumana/Medium-Articles-Notebooks/blob/main/Train_your_LLM.ipynb
