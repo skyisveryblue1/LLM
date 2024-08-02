@@ -7,6 +7,17 @@
 ## Nginx configuration for load balance of Apache Tomcat servers
 https://docs.nginx.com/nginx/deployment-guides/load-balance-third-party/apache-tomcat/
 
+# Neural Machine Translation
+## Document
+1. https://github.com/tensorflow/nmt.git
+2. https://github.com/ZahraBenslimane/Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate.git
+
+## Open source project
+1. https://github.com/UKPLab/EasyNMT.git
+2. https://github.com/OpenNMT/OpenNMT-py.git
+3. https://github.com/OpenNMT/OpenNMT-tf
+4. https://github.com/OpenNMT/CTranslate2.git
+
 # LLM
 ## Source code
   1. llama.cpp : https://github.com/ggerganov/llama.cpp.git
