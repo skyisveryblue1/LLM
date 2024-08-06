@@ -1,25 +1,25 @@
 # JDK
 ## JDK 11
-https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.rpm
-https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.tar.gz
-https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.deb
-https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.rpm
-https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.tar.gz
+* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.rpm
+* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.tar.gz
+* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.deb
+* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.rpm
+* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.tar.gz
 
 ## JDK 17
-https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.tar.gz
-https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.rpm
-https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz
-https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb
-https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.rpm
+* https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.tar.gz
+* https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.rpm
+* https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz
+* https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb
+* https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.rpm
 
 # Knowhows
 ## Nginx configuration for load balance of Apache Tomcat servers
-https://docs.nginx.com/nginx/deployment-guides/load-balance-third-party/apache-tomcat/
+* https://docs.nginx.com/nginx/deployment-guides/load-balance-third-party/apache-tomcat/
 
 ## Oracle 19c pricing
-https://www.oracle.com/a/ocom/docs/corporate/pricing/technology-price-list-070617.pdf
-https://redresscompliance.com/oracle-technology-price-list-how-to-calculate-pricing/
+* https://www.oracle.com/a/ocom/docs/corporate/pricing/technology-price-list-070617.pdf
+* https://redresscompliance.com/oracle-technology-price-list-how-to-calculate-pricing/
 
 # Neural Machine Translation
 ## Document
