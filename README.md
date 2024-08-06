@@ -23,14 +23,14 @@
 
 # Neural Machine Translation
 ## Document
-1. https://github.com/tensorflow/nmt.git
-2. https://github.com/ZahraBenslimane/Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate.git
+* https://github.com/tensorflow/nmt.git
+* https://github.com/ZahraBenslimane/Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate.git
 
 ## Open source project
-1. https://github.com/UKPLab/EasyNMT.git
-2. https://github.com/OpenNMT/OpenNMT-py.git
-3. https://github.com/OpenNMT/OpenNMT-tf
-4. https://github.com/OpenNMT/CTranslate2.git
+* https://github.com/UKPLab/EasyNMT.git
+* https://github.com/OpenNMT/OpenNMT-py.git
+* https://github.com/OpenNMT/OpenNMT-tf
+* https://github.com/OpenNMT/CTranslate2.git
 
 # LLM
 ## Source code
