@@ -2,9 +2,13 @@
 # Opensource project
 ## https://github.com/abb128/LiveCaptions.git
   * https://github.com/abb128/april-asr.git
-  * dependency: https://github.com/microsoft/onnxruntime.git
+  * https://github.com/microsoft/onnxruntime.git
 ## https://github.com/m1guelpf/auto-subtitle
 
+# WordNet
+* https://wordnet.princeton.edu/
+* https://github.com/globalwordnet/english-wordnet.git
+  
 # JDK
 ## JDK 11
 * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.rpm
