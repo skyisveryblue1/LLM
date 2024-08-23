@@ -1,7 +1,9 @@
 # Live Caption
 # Opensource project
-* https://github.com/abb128/april-asr.git
-  dependency: https://github.com/microsoft/onnxruntime.git
+## https://github.com/abb128/LiveCaptions.git
+  * https://github.com/abb128/april-asr.git
+  * dependency: https://github.com/microsoft/onnxruntime.git
+## https://github.com/m1guelpf/auto-subtitle
 
 # JDK
 ## JDK 11
