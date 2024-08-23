@@ -1,7 +1,7 @@
 # Live Caption
 # Opensource project
 * https://github.com/abb128/april-asr.git
-** https://github.com/microsoft/onnxruntime.git
+  dependency: https://github.com/microsoft/onnxruntime.git
 
 # JDK
 ## JDK 11
