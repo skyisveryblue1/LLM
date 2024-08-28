@@ -44,7 +44,8 @@
 
 # LLM
 ## Source code
-  1. llama.cpp : https://github.com/ggerganov/llama.cpp.git
+  1. ollama: https://github.com/ollama/ollama.git
+  2. llama.cpp : https://github.com/ggerganov/llama.cpp.git
      
 ## Training LLM
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
