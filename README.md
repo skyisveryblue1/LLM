@@ -7,21 +7,6 @@
 # WordNet
 * https://wordnet.princeton.edu/
 * https://github.com/globalwordnet/english-wordnet.git
-  
-# JDK
-## JDK 11
-* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.rpm
-* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.tar.gz
-* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.deb
-* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.rpm
-* https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.tar.gz
-
-## JDK 17
-* https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.tar.gz
-* https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.rpm
-* https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz
-* https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb
-* https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.rpm
 
 # Knowhows
 ## Nginx configuration for load balance of Apache Tomcat servers
@@ -46,6 +31,7 @@
 ## Source code
   1. ollama: https://github.com/ollama/ollama.git
   2. llama.cpp : https://github.com/ggerganov/llama.cpp.git
+  3. llm on pc: https://github.com/lyogavin/airllm.git
      
 ## Training LLM
   1. https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch
@@ -110,7 +96,21 @@
      * CUDA 11.0.1 Windows: https://developer.download.nvidia.com/compute/cuda/11.0.1/local_installers/cuda_11.0.1_451.22_win10.exe?_gl=1*1dj8n28*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
      * CUDA 11.5 Linux: https://developer.download.nvidia.com/compute/cuda/11.5.0/local_installers/cuda_11.5.0_495.29.05_linux.run
      * CUDA 12.0 Linux: https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_525.60.13_linux.run
-     * CUDA 12.0 Windows: https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_527.41_windows.exe?_gl=1*17wduhk*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz    
+     * CUDA 12.0 Windows: https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_527.41_windows.exe?_gl=1*17wduhk*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
+ 4. JDK
+     ** JDK 11
+     * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.rpm
+     * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.tar.gz
+     * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.deb
+     * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.rpm
+     * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.tar.gz
+
+     ** JDK 17
+     * https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.tar.gz
+     * https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.rpm
+     * https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz
+     * https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb
+     * https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.rpm
     
 # Others
 1. DSpace
