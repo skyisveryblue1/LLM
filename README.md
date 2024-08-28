@@ -1,4 +1,5 @@
 # HTML Equation Editor
+ * https://github.com/arnog/mathlive.git
  * https://github.com/wiris/html-integrations.git
  * https://github.com/camdenreslink/equation-editor.git 
 
