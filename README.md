@@ -1,3 +1,7 @@
+# HTML Equation Editor
+ * https://github.com/wiris/html-integrations.git
+ * https://github.com/camdenreslink/equation-editor.git 
+
 # Live Caption
 ## https://github.com/abb128/LiveCaptions.git
   * https://github.com/abb128/april-asr.git
