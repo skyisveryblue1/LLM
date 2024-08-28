@@ -98,14 +98,11 @@
      * CUDA 12.0 Linux: https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_525.60.13_linux.run
      * CUDA 12.0 Windows: https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_527.41_windows.exe?_gl=1*17wduhk*_gcl_au*MTEyNzU2MDMyMC4xNzE2Nzc5NTUz
  4. JDK
-     ** JDK 11
      * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.rpm
      * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-aarch64_bin.tar.gz
      * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.deb
      * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.rpm
      * https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.24%2B7/21cffd70ff1e41a3a5ef9898f46e442d/jdk-11.0.24_linux-x64_bin.tar.gz
-
-     ** JDK 17
      * https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.tar.gz
      * https://download.oracle.com/java/17/latest/jdk-17_linux-aarch64_bin.rpm
      * https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz
