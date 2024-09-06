@@ -1,7 +1,13 @@
 # HTML Equation Editor
  * https://github.com/arnog/mathlive.git
  * https://github.com/wiris/html-integrations.git
- * https://github.com/camdenreslink/equation-editor.git 
+ * https://github.com/camdenreslink/equation-editor.git
+
+# OCR
+ * https://github.com/tesseract-ocr/tesseract.git
+ * https://github.com/JaidedAI/EasyOCR.git
+ * https://github.com/ocropus-archive/DUP-ocropy.git
+ * https://github.com/kba/awesome-ocr
 
 # Live Caption
 ## https://github.com/abb128/LiveCaptions.git
