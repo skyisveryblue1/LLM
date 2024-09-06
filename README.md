@@ -6,6 +6,7 @@
 # OCR
  * https://github.com/tesseract-ocr/tesseract.git
  * https://github.com/JaidedAI/EasyOCR.git
+ * https://github.com/mindee/doctr.git
  * https://github.com/ocropus-archive/DUP-ocropy.git
  * https://github.com/kba/awesome-ocr
 
