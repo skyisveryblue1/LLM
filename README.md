@@ -1,3 +1,8 @@
+# Java based HTML to PDF
+* https://github.com/danfickle/openhtmltopdf.git
+* https://github.com/flyingsaucerproject/flyingsaucer.git
+* https://github.com/itext/itext-pdfhtml-java.git
+  
 # HTML Equation Editor
  * https://github.com/arnog/mathlive.git
  * https://github.com/wiris/html-integrations.git
