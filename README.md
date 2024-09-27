@@ -1,11 +1,15 @@
 
 # Live Caption
-## http://ncamftp.wgbh.org/cadet/cadet-setup-2.0.048.exe
+## https://github.com/tmoroney/auto-subs.git
+  * https://github.com/openai/whisper.git
+  * https://github.com/SYSTRAN/faster-whisper.git
 
 ## https://github.com/abb128/LiveCaptions.git
   * https://github.com/abb128/april-asr.git
   * https://github.com/microsoft/onnxruntime.git
 ## https://github.com/m1guelpf/auto-subtitle
+
+## https://sourceforge.net/projects/vatsg/files/latest/download
 
 # Java based HTML to PDF
 * https://github.com/danfickle/openhtmltopdf.git
