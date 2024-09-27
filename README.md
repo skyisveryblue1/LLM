@@ -9,8 +9,6 @@
   * https://github.com/microsoft/onnxruntime.git
 ## https://github.com/m1guelpf/auto-subtitle
 
-## https://sourceforge.net/projects/vatsg/files/latest/download
-
 # Java based HTML to PDF
 * https://github.com/danfickle/openhtmltopdf.git
 * https://github.com/flyingsaucerproject/flyingsaucer.git
