@@ -1,3 +1,12 @@
+
+# Live Caption
+## http://ncamftp.wgbh.org/cadet/cadet-setup-2.0.048.exe
+
+## https://github.com/abb128/LiveCaptions.git
+  * https://github.com/abb128/april-asr.git
+  * https://github.com/microsoft/onnxruntime.git
+## https://github.com/m1guelpf/auto-subtitle
+
 # Java based HTML to PDF
 * https://github.com/danfickle/openhtmltopdf.git
 * https://github.com/flyingsaucerproject/flyingsaucer.git
@@ -14,12 +23,6 @@
  * https://github.com/mindee/doctr.git
  * https://github.com/ocropus-archive/DUP-ocropy.git
  * https://github.com/kba/awesome-ocr
-
-# Live Caption
-## https://github.com/abb128/LiveCaptions.git
-  * https://github.com/abb128/april-asr.git
-  * https://github.com/microsoft/onnxruntime.git
-## https://github.com/m1guelpf/auto-subtitle
 
 # WordNet
 * https://wordnet.princeton.edu/
