@@ -12,6 +12,8 @@
 
 # Acrobat SDK
 ## https://github.com/adobe/dc-acrobat-sdk-docs.git
+## https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html
+
 ## https://github.com/adobe/pdfservices-python-sdk.git
 ## https://github.com/adobe/pdfservices-python-sdk-samples.git
 ## https://github.com/adobe/PDFServices.NET.SDK.Samples.git
