@@ -11,16 +11,16 @@
 ## https://sourceforge.net/projects/vatsg/files/latest/download
 
 # Acrobat SDK
-## https://github.com/adobe/dc-acrobat-sdk-docs.git
-## https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html
+ * https://github.com/adobe/dc-acrobat-sdk-docs.git
+ * https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html
 
-## https://github.com/adobe/pdfservices-python-sdk.git
-## https://github.com/adobe/pdfservices-python-sdk-samples.git
-## https://github.com/adobe/PDFServices.NET.SDK.Samples.git
-## https://github.com/adobe/pdfservices-java-sdk-samples.git
-## https://github.com/adobe/pdfservices-java-sdk-samples/archive/refs/tags/v4.1.0.tar.gz
-## https://github.com/adobe/pdfservices-java-sdk-samples/archive/refs/tags/v3.5.1.tar.gz
-## https://github.com/adobe/pdfservices-node-sdk-samples.git
+ * https://github.com/adobe/pdfservices-python-sdk.git
+ * https://github.com/adobe/pdfservices-python-sdk-samples.git
+ * https://github.com/adobe/PDFServices.NET.SDK.Samples.git
+ * https://github.com/adobe/pdfservices-java-sdk-samples.git
+ * https://github.com/adobe/pdfservices-java-sdk-samples/archive/refs/tags/v4.1.0.tar.gz
+ * https://github.com/adobe/pdfservices-java-sdk-samples/archive/refs/tags/v3.5.1.tar.gz
+ * https://github.com/adobe/pdfservices-node-sdk-samples.git
 
 # Java based HTML to PDF
 * https://github.com/danfickle/openhtmltopdf.git
