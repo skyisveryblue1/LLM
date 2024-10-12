@@ -1,3 +1,6 @@
+You should download above 2 PDF files too.
+![image](https://github.com/user-attachments/assets/0c1ef04f-8531-47e4-b231-4251f089079d)
+
 
 # Live Caption
 ## https://github.com/tmoroney/auto-subs.git
