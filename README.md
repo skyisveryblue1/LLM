@@ -1,7 +1,10 @@
-You should download above 2 PDF files too.
-![image](https://github.com/user-attachments/assets/0c1ef04f-8531-47e4-b231-4251f089079d)
-
-
+# OCR
+ * https://github.com/tesseract-ocr/tesseract.git
+ * https://github.com/JaidedAI/EasyOCR.git
+ * https://github.com/mindee/doctr.git
+ * https://github.com/ocropus-archive/DUP-ocropy.git
+ * https://github.com/kba/awesome-ocr
+   
 # Live Caption
 ## https://github.com/tmoroney/auto-subs.git
   * https://github.com/openai/whisper.git
@@ -34,13 +37,6 @@ You should download above 2 PDF files too.
  * https://github.com/arnog/mathlive.git
  * https://github.com/wiris/html-integrations.git
  * https://github.com/camdenreslink/equation-editor.git
-
-# OCR
- * https://github.com/tesseract-ocr/tesseract.git
- * https://github.com/JaidedAI/EasyOCR.git
- * https://github.com/mindee/doctr.git
- * https://github.com/ocropus-archive/DUP-ocropy.git
- * https://github.com/kba/awesome-ocr
 
 # WordNet
 * https://wordnet.princeton.edu/
