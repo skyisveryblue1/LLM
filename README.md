@@ -3,7 +3,13 @@
  * https://windows.php.net/downloads/pecl/releases/mongo/1.6.11/php_mongo-1.6.11-5.6-ts-vc11-x64.zip
  * https://windows.php.net/downloads/pecl/releases/mongo/1.6.11/php_mongo-1.6.11-5.6-nts-vc11-x64.zip
 ## Linux
- * 
+ * https://pecl.php.net/get/mongodb-1.11.1.tgz
+ * https://pecl.php.net/get/mongodb-1.7.5.tgz
+ * https://pecl.php.net/get/mongodb-1.6.1.tgz
+ * https://pecl.php.net/get/mongodb-1.5.5.tgz
+ * https://pecl.php.net/get/mongodb-1.4.4.tgz
+ * https://pecl.php.net/get/mongodb-1.2.11.tgz
+ * https://pecl.php.net/get/mongodb-1.1.10.tgz 
 
 # OCR
  * https://github.com/tesseract-ocr/tesseract.git
