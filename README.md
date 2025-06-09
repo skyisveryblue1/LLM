@@ -1,18 +1,8 @@
+# Tape Storage, HDD Storage and UPS
+https://limewire.com/d/yJmax#HGTN7O7l9S
+
 # Aspose
 https://limewire.com/d/oi2DV#KirzZAmMUR
-
-# Mongo extension for PHP
-## Windows 
- * https://windows.php.net/downloads/pecl/releases/mongo/1.6.11/php_mongo-1.6.11-5.6-ts-vc11-x64.zip
- * https://windows.php.net/downloads/pecl/releases/mongo/1.6.11/php_mongo-1.6.11-5.6-nts-vc11-x64.zip
-## Linux
- * https://pecl.php.net/get/mongodb-1.11.1.tgz
- * https://pecl.php.net/get/mongodb-1.7.5.tgz
- * https://pecl.php.net/get/mongodb-1.6.1.tgz
- * https://pecl.php.net/get/mongodb-1.5.5.tgz
- * https://pecl.php.net/get/mongodb-1.4.4.tgz
- * https://pecl.php.net/get/mongodb-1.2.11.tgz
- * https://pecl.php.net/get/mongodb-1.1.10.tgz 
 
 # OCR
  * https://github.com/tesseract-ocr/tesseract.git
@@ -20,62 +10,6 @@ https://limewire.com/d/oi2DV#KirzZAmMUR
  * https://github.com/mindee/doctr.git
  * https://github.com/ocropus-archive/DUP-ocropy.git
  * https://github.com/kba/awesome-ocr
-   
-# Live Caption
-## https://github.com/tmoroney/auto-subs.git
-  * https://github.com/openai/whisper.git
-  * https://github.com/SYSTRAN/faster-whisper.git
-## https://github.com/abb128/LiveCaptions.git
-  * https://github.com/abb128/april-asr.git
-  * https://github.com/microsoft/onnxruntime.git
-## https://github.com/m1guelpf/auto-subtitle
-
-## https://sourceforge.net/projects/vatsg/files/latest/download
-
-# Acrobat SDK
- * https://github.com/adobe/dc-acrobat-sdk-docs.git
- * https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html
-
- * https://github.com/adobe/pdfservices-python-sdk.git
- * https://github.com/adobe/pdfservices-python-sdk-samples.git
- * https://github.com/adobe/PDFServices.NET.SDK.Samples.git
- * https://github.com/adobe/pdfservices-java-sdk-samples.git
- * https://github.com/adobe/pdfservices-java-sdk-samples/archive/refs/tags/v4.1.0.tar.gz
- * https://github.com/adobe/pdfservices-java-sdk-samples/archive/refs/tags/v3.5.1.tar.gz
- * https://github.com/adobe/pdfservices-node-sdk-samples.git
-
-# Java based HTML to PDF
-* https://github.com/danfickle/openhtmltopdf.git
-* https://github.com/flyingsaucerproject/flyingsaucer.git
-* https://github.com/itext/itext-pdfhtml-java.git
-  
-# HTML Equation Editor
- * https://github.com/arnog/mathlive.git
- * https://github.com/wiris/html-integrations.git
- * https://github.com/camdenreslink/equation-editor.git
-
-# WordNet
-* https://wordnet.princeton.edu/
-* https://github.com/globalwordnet/english-wordnet.git
-
-# Knowhows
-## Nginx configuration for load balance of Apache Tomcat servers
-* https://docs.nginx.com/nginx/deployment-guides/load-balance-third-party/apache-tomcat/
-
-## Oracle 19c pricing
-* https://www.oracle.com/a/ocom/docs/corporate/pricing/technology-price-list-070617.pdf
-* https://redresscompliance.com/oracle-technology-price-list-how-to-calculate-pricing/
-
-# Neural Machine Translation
-## Document
-* https://github.com/tensorflow/nmt.git
-* https://github.com/ZahraBenslimane/Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate.git
-
-## Open source project
-* https://github.com/UKPLab/EasyNMT.git
-* https://github.com/OpenNMT/OpenNMT-py.git
-* https://github.com/OpenNMT/OpenNMT-tf
-* https://github.com/OpenNMT/CTranslate2.git
 
 # LLM
 ## Source code
@@ -158,18 +92,6 @@ https://limewire.com/d/oi2DV#KirzZAmMUR
      * https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb
      * https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.rpm
     
-# Others
-1. DSpace
- * Source code:  https://github.com/DSpace/DSpace.git
- * Backend (REST API): https://github.com/DSpace/DSpace/releases
- * Frontend (User Interface): https://github.com/DSpace/dspace-angular/releases
-2. Online document editor
- * https://github.com/ONLYOFFICE/DocumentServer.git
- * https://github.com/ether/etherpad-lite.git
- * https://github.com/CollaboraOnline/online.git
-3. Online diagram editor
- * https://github.com/jgraph/drawio.git
-
 -------------------------------------------
 # Open source LLM
 * https://github.com/meta-llama/llama.git
@@ -179,7 +101,7 @@ https://limewire.com/d/oi2DV#KirzZAmMUR
 * https://github.com/lm-sys/FastChat.git
 * https://github.com/yxuansu/OpenAlpaca.git
 * https://github.com/ludwig-ai/ludwig.git
-* 
+ 
 # LLM Model
 * https://huggingface.co/meta-llama
 * https://huggingface.co/mistralai
