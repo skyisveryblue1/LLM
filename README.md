@@ -6,7 +6,7 @@
 * [Deep Leanring Books](https://limewire.com/d/ihZRM#ZXtf8LOyX6)
 
 # Aspose
-https://limewire.com/d/oi2DV#KirzZAmMUR
+[Aspose .NET](https://limewire.com/d/oi2DV#KirzZAmMUR)
 
 # OCR
  * https://github.com/tesseract-ocr/tesseract.git
