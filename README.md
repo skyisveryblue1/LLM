@@ -1,6 +1,10 @@
 # Tape Storage, HDD Storage and UPS
 https://limewire.com/d/yJmax#HGTN7O7l9S
 
+# References for LLM
+* [LLM Books](https://limewire.com/d/xt4Wf#LMgfOcyRX8)
+* [Deep Leanring Books](https://limewire.com/d/ihZRM#ZXtf8LOyX6)
+
 # Aspose
 https://limewire.com/d/oi2DV#KirzZAmMUR
 
