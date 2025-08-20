@@ -3,8 +3,8 @@
 ##  [1. Veritas(Symantec) Backup Exec 22.2.1193.1605, Iperius Backup Full 8.6.1, Acronis Cyber Backup 12.5](https://limewire.com/d/nAAa2#k2ZsPAqIdk)
 
 ## 2. Veeam Backup and Replication 12.3.2.3617
-- Size for downloading this software is bigger than 13GB.
-- Thus, you should do as follows:
+Size for downloading this software is bigger than 13GB.
+Thus, you should do as follows:
 * Download [qbittorrent](https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.1.2/qbittorrent_5.1.2_x64_setup.exe/download)
 * Install the downloaded qbittorrent setup program.
 * Add this torrent link to the installed qbittorrent.
