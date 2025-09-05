@@ -3,6 +3,8 @@
 ##  [1. Veritas(Symantec) Backup Exec 22.2.1193.1605, Iperius Backup Full 8.6.1, Acronis Cyber Backup 12.5](https://limewire.com/d/nAAa2#k2ZsPAqIdk)
 
 ## 2. Veeam Backup and Replication 12.3.2.3617
+**Please read the below explanation carefully.**
+
 Size for downloading this software is bigger than 13GB.
 Thus, you should do as follows:
 * Download [qbittorrent](https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.1.2/qbittorrent_5.1.2_x64_setup.exe/download)
@@ -13,7 +15,7 @@ Thus, you should do as follows:
   ```
 * Start downloading and it will take only 10~20 mins.
 
-# [UPS5000-E Manuals (2025-08-21)](https://limewire.com/d/fk9eZ#wz3e5Yw2Yv)
+# [UPS5000-E Manuals (2025-09-05 Updated)](https://limewire.com/d/BmGl6#Ea1rwNT8Hx)
 
 
 
