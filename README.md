@@ -20,7 +20,7 @@ Thus, you should do as follows:
 
 * Start downloading and it will take only 10~20 mins.
 
-## 3. [UPS5000-E Manuals (2025-09-05 Updated)](https://limewire.com/d/BmGl6#Ea1rwNT8Hx)
+## 3. [UPS5000-E Manuals (2025-09-08 Updated)](https://limewire.com/d/TXej8#tHfMf3z9ky)
 
 
 
