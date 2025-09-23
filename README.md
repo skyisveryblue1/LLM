@@ -1,6 +1,5 @@
 # Backup Softwares for Tape Library (2025-08-14)
-
-##  [1. Veritas(Symantec) Backup Exec 22.2.1193.1605, Iperius Backup Full 8.6.1, Acronis Cyber Backup 12.5](https://limewire.com/d/nAAa2#k2ZsPAqIdk)
+## 3. [UPS5000-E Manuals (2025-09-23 Updated Again)](https://limewire.com/d/VodHA#rfmbS6Ouzx)
 
 ## 2. Veeam Backup and Replication 12.3.2.3617
 **Please read the below explanation carefully.**
@@ -20,7 +19,6 @@ Thus, you should do as follows:
 
 * Start downloading and it will take only 10~20 mins.
 
-## 3. [UPS5000-E Manuals (2025-09-08 Updated)](https://limewire.com/d/TXej8#tHfMf3z9ky)
 
 
 
