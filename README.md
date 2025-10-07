@@ -1,4 +1,4 @@
-# 3. [UPS5000-E Manuals (2025-09-23 Updated Again)](https://limewire.com/d/VodHA#rfmbS6Ouzx)
+# 3. [UPS5000-E Manuals (2025-10-07 Updated Again)](https://limewire.com/d/fwQyx#D6p99W1JoF)
 
 # 2. Veeam Backup and Replication 12.3.2.3617
 **Please read the below explanation carefully.**
