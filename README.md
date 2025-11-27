@@ -1,3 +1,4 @@
 # Hikvision, Switch, Data Storage
-https://limewire.com/d/8E4RG#i28aDyqJCh
+* 251124[https://limewire.com/d/8E4RG#i28aDyqJCh]
+* 251127[https://limewire.com/d/2lvoa#9kBCJNp4gN]
 
