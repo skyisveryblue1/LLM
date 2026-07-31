@@ -1,1 +1,2 @@
-[UT520 Manual-20260722](https://limewire.com/d/yISF3#FhlyUcWsO6)
+* 20260801
+[Dell Server & UNI-T 520](https://limewire.com/d/sohgX#LKTTgpqySH)
