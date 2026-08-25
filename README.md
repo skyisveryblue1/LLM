@@ -7,3 +7,4 @@
   
 * 20260825-LimeWire
   * [cuDNN](https://limewire.com/d/DO1Dx#9g57nS8SqL)-3.8GB
+  * [PaddleOCR-CPU](https://limewire.com/d/Shdyr#XXV7uBu6pP)-800MB
