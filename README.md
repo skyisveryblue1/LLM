@@ -9,4 +9,4 @@
   * [Network Simulator](https://www.swisstransfer.com/dl/01a0ec23-69db-727f-bb36-108d2531ff7d) ~ 1GB
   * [Openwrt - Wireguard](https://www.swisstransfer.com/dl/01a0ec4e-b380-706b-b230-c9c03c900d58) ~ 460MB
   * [Portable VSCode + Extensions](https://www.swisstransfer.com/dl/01a0ed57-03b0-72c7-94a9-8490c9c4a918) ~ 740MB
-  
+  * [Markdown Extension for VSCode](https://www.swisstransfer.com/dl/01a0ef38-2461-7231-bb9d-b2dc3619974f) ~ 1MB, Not protected with password
