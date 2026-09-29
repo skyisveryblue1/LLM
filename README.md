@@ -1,6 +1,6 @@
-* 20260904-SwissTransfer
-  * [Portuguese_Romanian](https://www.swisstransfer.com/dl/01a06ce7-b05a-7300-a88b-67742b771ac5) ~ 270MB
-  * [Dutch_Polish](https://www.swisstransfer.com/dl/01a06ce9-45ff-7281-af3c-9501ebe0a685) ~270MB
-  * [Persian_Thai](https://www.swisstransfer.com/dl/01a06cea-e595-70b3-b099-0d4cd08d5af0) ~370MB
-
+* 20260929-SwissTransfer
+  * Dell PowerEdge R750xa Drivers for Windows Server 2022
+    * [Dell Drivers](https://www.swisstransfer.com/dl/01a0eb94-cc09-7012-871a-02b1fc7cbd9c) ~ 2.14GB
+    * [NVIDIA A100 Driver](https://www.swisstransfer.com/dl/01a0eb9c-970d-71e1-b146-16c49182337a) ~ 700MB
+  
   
