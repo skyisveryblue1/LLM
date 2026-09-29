@@ -7,6 +7,6 @@
   * [Inverter_Switch_Camera_fairseq2](https://www.swisstransfer.com/dl/01a0ed54-112c-7210-b711-fe9fc7e69630) ~60MB
   * [Huawei Switch](https://www.swisstransfer.com/dl/01a0ebd6-7739-7225-bdfa-72bcf1680768) ~ 560MB
   * [Network Simulator](https://www.swisstransfer.com/dl/01a0ec23-69db-727f-bb36-108d2531ff7d) ~ 1GB
-  * [Openwrt-Wireguard](https://www.swisstransfer.com/dl/01a0ec4e-b380-706b-b230-c9c03c900d58) ~ 460MB
-  * [VSCode+Extensions](https://www.swisstransfer.com/dl/01a0ed57-03b0-72c7-94a9-8490c9c4a918) ~ 740MB
+  * [Openwrt - Wireguard](https://www.swisstransfer.com/dl/01a0ec4e-b380-706b-b230-c9c03c900d58) ~ 460MB
+  * [Portable VSCode + Extensions](https://www.swisstransfer.com/dl/01a0ed57-03b0-72c7-94a9-8490c9c4a918) ~ 740MB
   
