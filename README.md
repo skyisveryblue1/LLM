@@ -1,6 +1,6 @@
-* NMT_20261014-SwissTransfer
-   *[Albanian & Azerbaijani](https://www.swisstransfer.com/dl/01a1395f-c3ff-7229-beed-c4989db2ad57)
-   *[Bengali & Bulgarian](https://www.swisstransfer.com/dl/01a13959-2e6c-720a-897f-bef9b585c498)
+# NMT_20261014-SwissTransfer
+   ## [Albanian & Azerbaijani](https://www.swisstransfer.com/dl/01a1395f-c3ff-7229-beed-c4989db2ad57)
+   ## [Bengali & Bulgarian](https://www.swisstransfer.com/dl/01a13959-2e6c-720a-897f-bef9b585c498)
    *[Basque & Catalan](https://www.swisstransfer.com/dl/01a1396e-3d2f-7252-9904-81fdc154024f)
    *[Chinese (traditional) & Czech](https://www.swisstransfer.com/dl/01a1398c-da40-7379-b0fb-576f960f92eb)
    *[Danish & Esperanto](https://www.swisstransfer.com/dl/01a13991-bf70-7369-a716-7d27ea4d4e8d)
