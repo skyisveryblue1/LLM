@@ -1,2 +1,20 @@
-* 20261009-SwissTransfer
+* NMT_20261014-SwissTransfer
+  *[Albanian & Azerbaijani](https://www.swisstransfer.com/dl/01a1395f-c3ff-7229-beed-c4989db2ad57)
+  *[Bengali & Bulgarian](https://www.swisstransfer.com/dl/01a13959-2e6c-720a-897f-bef9b585c498)
+  *[Basque & Catalan](https://www.swisstransfer.com/dl/01a1396e-3d2f-7252-9904-81fdc154024f)
+  *[Chinese (traditional) & Czech](https://www.swisstransfer.com/dl/01a1398c-da40-7379-b0fb-576f960f92eb)
+  *[Danish & Esperanto](https://www.swisstransfer.com/dl/01a13991-bf70-7369-a716-7d27ea4d4e8d)
+  *[Estonian & Finnish](https://www.swisstransfer.com/dl/01a13996-41ba-70af-8646-7760436a03ea)
+  *[Galician & Greek](https://www.swisstransfer.com/dl/01a13999-eb8a-71d0-b1f8-ff262e3da657)
+  *[Hebrew & Hindi](https://www.swisstransfer.com/dl/01a1399d-522a-70a5-b402-0d73cbdc4b78)
+  *[Hungarian & Indonesian](https://www.swisstransfer.com/dl/01a139a0-201a-7192-9648-56baa7b9bf39)
+  *[Irish & Kyrgyz](https://www.swisstransfer.com/dl/01a139a3-3647-72f1-9cd4-48ad9bcdc02c)
+  *[Latvian & Lithuanian](https://www.swisstransfer.com/dl/01a139a9-c177-702f-a405-b37d22152ead)
+  *[Malay & Norwegian](https://www.swisstransfer.com/dl/01a139ab-6fd2-73f6-9980-d4fc3d1632d2)
+  *[Portuguese (Brazil) & Slovak](https://www.swisstransfer.com/dl/01a139b2-96ab-70b4-a765-d576922409b5)
+  *[Slovenian & Swahili](https://www.swisstransfer.com/dl/01a139b6-8cc1-73da-b9ed-52c5ceb952ee)
+  *[Swedish & Tagalog](https://www.swisstransfer.com/dl/01a139be-af75-721c-adfa-80f791f3fa82)
+  *[Turkish & Ukrainian](https://www.swisstransfer.com/dl/01a139c3-c054-70f9-a433-00887878c6d0)
+  *[Urdu & Vietnamese](https://www.swisstransfer.com/dl/01a139c8-e1ec-7330-a067-021751adebc8)
+
  
