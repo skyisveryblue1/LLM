@@ -1,5 +1,6 @@
 # Camera Plugins_20261019-SwissTransfer
-   * [CameraPlugins](https://www.swisstransfer.com/dl/01a15437-9949-72b9-b681-c5a81c92ae34) ~ 45MB
+   * [CameraPlugins](https://www.swisstransfer.com/dl/01a1543f-1a09-73b8-b9c2-39b68df91875) ~ 45MB
+     Password: skyisveryblue1@#+
 
 # NMT_20261014-SwissTransfer
    * [Albanian & Azerbaijani](https://www.swisstransfer.com/dl/01a1395f-c3ff-7229-beed-c4989db2ad57)
